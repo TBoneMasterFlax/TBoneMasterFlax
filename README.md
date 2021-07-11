@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TBoneMasterFlax, real name Tuan Duc Richard Nguyen.
 - 👀 I’m interested in gaming, chess and coding.
 - 🌱 I’m currently learning Front-End and Back-End development softwares at Seneca College.
-- 💞️ I’m looking to collaborate on anything gaming and website related.
+- 💞️ I’m looking to collaborate on anything gaming related and website development.
 - 📫 How to reach me at LinkedIn, https://www.linkedin.com/in/tuan-nguyen-1b4899208/
 
 <!---
